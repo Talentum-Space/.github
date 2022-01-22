@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://talentum.space/"><img src="./assets/img1.png" alt="Talentum Space"></a>
+  <a href="https://talentum.space/"><img src="https://media-exp1.licdn.com/dms/image/C561BAQEU7p4RRhP7Sw/company-background_10000/0/1632145094889?e=1642906800&v=beta&t=4eUZCbBL0Xn6jL7w7NM1jDvhb82eNp3RKtG_O4WhO4w" alt="Talentum Space"></a>
 </p>
 
 <h1 align="center">-  <a href="https://talentum.space/">TALENTUM SPACE</a>  -</h1>
