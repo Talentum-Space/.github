@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://talentum.space/"><img src="https://media-exp1.licdn.com/dms/image/C561BAQEU7p4RRhP7Sw/company-background_10000/0/1632145094889?e=1643947200&v=beta&t=OPum5zLssZd4eMWJDuCXQ1XI0WGYFw9QRfwTfOlOL4o" alt="Talentum Space"></a>
+  <a href="https://talentum.space/"><img src="https://media-exp1.licdn.com/dms/image/C561BAQEU7p4RRhP7Sw/company-background_10000/0/1632145094889?e=1644426000&v=beta&t=TsYSjwOs9qZI_DDa7Th1JRWhE0H20zuTImoyaB33oes" alt="Talentum Space"></a>
 </p>
 
 <h1 align="center">-  <a href="https://talentum.space/">TALENTUM SPACE</a>  -</h1>
