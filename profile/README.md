@@ -1,6 +1,6 @@
 
 
-![Talaentum Space](./assets/img1.png)
+![Talaentum Space](./profile/assets/)
 <h1 align="center">-  <a href="https://talentum.space/">TALENTUM SPACE</a>  -</h1>
 
 <p align="center">
