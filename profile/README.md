@@ -1,6 +1,8 @@
+<p align="center">
+  <a href="https://talentum.space/"><img src="https://media-exp1.licdn.com/dms/image/C561BAQEU7p4RRhP7Sw/company-background_10000/0/1632145094889?e=1645675200&v=beta&t=O9a4mboSjv1FryY_oQ8pw4OfYdWtvyHcXWkVbAZp3v8" alt="Talentum Space"></a>
+</p>
 
 
-![Talaentum Space](./profile/assets/)
 <h1 align="center">-  <a href="https://talentum.space/">TALENTUM SPACE</a>  -</h1>
 
 <p align="center">
